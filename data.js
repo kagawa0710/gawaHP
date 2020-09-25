@@ -75,24 +75,24 @@ var notifications = [
 		id: 1,
 		type: 'error',
 		text: 'You can\'t teleport me here...',
-		img: 'images/error.png'
+		img: 'https://kagawa0710.github.io/gawaHP/images/error.png'
 	},
 	{
 		id: 2,
 		type: 'info',
 		text: 'If you\'re too lazy to walk, you can teleport yourself by clicking on the top navigation bar items',
-		img: 'images/information.png'
+		img: 'https://kagawa0710.github.io/gawaHP/images/information.png'
 	},
 	{
 		id: 3,
 		type: 'info',
 		text: 'Press "Return" on your keyboard or click with your mouse on the ship to sail and contact me!',
-		img: 'images/information.png'
+		img: 'https://kagawa0710.github.io/gawaHP/images/information.png'
 	},
 	{
 		id: 4,
 		type: 'error',
 		text: 'Stop trying to drown me down!!!',
-		img: 'images/error.png'
+		img: 'https://kagawa0710.github.io/gawaHP/images/error.png'
 	},
 ]

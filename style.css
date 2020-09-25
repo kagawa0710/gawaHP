@@ -100,7 +100,7 @@ nav li.last a:hover {
 	width: 100%;
 	height: 2500px;
 	position: relative;
-	background: url(images/bg.png) repeat;
+	background: url(https://kagawa0710.github.io/gawaHP/images/bg.png) repeat;
 	overflow: hidden;
 }
 
@@ -187,7 +187,7 @@ nav li.last a:hover {
 .cave {
 	position: absolute;
 	left: 0;
-	background: url(images/caveBG.png) repeat;
+	background: url(https://kagawa0710.github.io/gawaHP/images/caveBG.png) repeat;
 	width: 100%;
 	z-index: 50;
 }
@@ -207,7 +207,7 @@ nav li.last a:hover {
 	position: absolute;
 	left: 50%;
 	width: 200px;
-	background: url(images/caveBG.png) repeat;
+	background: url(https://kagawa0710.github.io/gawaHP/images/caveBG.png) repeat;
 	margin: 0 0 0 -100px;
 	z-index: 54;
 }
@@ -215,7 +215,7 @@ nav li.last a:hover {
 .sea {
 	position: absolute;
 	left: 0;
-	background: url(images/sea.png) repeat;
+	background: url(https://kagawa0710.github.io/gawaHP/images/sea.png) repeat;
 	width: 100%;
 	z-index: 50;
 }
@@ -224,7 +224,7 @@ nav li.last a:hover {
 	position: absolute;
 	left: 50%;
 	width: 210px;
-	background: url(images/bridge.png) repeat-y;
+	background: url(https://kagawa0710.github.io/gawaHP/images/bridge.png) repeat-y;
 	margin: 0 0 0 -105px;
 	z-index: 52;
 }
@@ -238,7 +238,7 @@ nav li.last a:hover {
 	position: absolute;
 	bottom: -23px;
 	left: 0;
-	background: url(images/caveBottomBG.png) repeat;
+	background: url(https://kagawa0710.github.io/gawaHP/images/caveBottomBG.png) repeat;
 	height: 32px;
 	width: 100%;
 	z-index: 51;
@@ -296,7 +296,7 @@ nav li.last a:hover {
 	position: absolute;
 	top: 0px;
 	left: 0;
-	background: url(images/seaStart.png) repeat center bottom;
+	background: url(https://kagawa0710.github.io/gawaHP/images/seaStart.png) repeat center bottom;
 	height: 9px;
 	width: 100%;
 	z-index: 51;
@@ -420,7 +420,7 @@ nav li.last a:hover {
 	position: absolute;
 	bottom: -16px;
 	left: 0;
-	background: url(images/endCaveAfterBG.png) repeat center bottom;
+	background: url(https://kagawa0710.github.io/gawaHP/images/endCaveAfterBG.png) repeat center bottom;
 	height: 16px;
 	width: 100%;
 	z-index: 51;
@@ -436,7 +436,7 @@ nav li.last a:hover {
 	margin-left: -210px;
 	height: 194px;
 	cursor: pointer;
-	background: url(images/boat.png) no-repeat center;	
+	background: url(https://kagawa0710.github.io/gawaHP/images/boat.png) no-repeat center;	
 	-webkit-transition: all 5s linear 1.5s;
 	-moz-transition: all 5s linear 1.5s;
 	transition: all 5s linear 1.5s;
@@ -455,7 +455,7 @@ nav li.last a:hover {
 	position: absolute;
 	width: 32px;
 	height: 32px;
-	background: url(images/walkingMe.png) no-repeat 0 -32px;
+	background: url(https://kagawa0710.github.io/gawaHP/images/walkingMe.png) no-repeat 0 -32px;
 	top: 50px;
 	left: 70px;
 	display: none;
@@ -566,7 +566,7 @@ nav li.last a:hover {
 
 .road {
 	position: absolute;
-	background: url(images/road.png) repeat;
+	background: url(https://kagawa0710.github.io/gawaHP/images/road.png) repeat;
 }
 
 #mainRoad {
@@ -584,7 +584,7 @@ nav li.last a:hover {
 	left: 50%;
 	height: 100%;
 	margin: 0 0 0 -106px;
-	background: url(images/fenceVer.png) repeat-y top;
+	background: url(https://kagawa0710.github.io/gawaHP/images/fenceVer.png) repeat-y top;
 	position: absolute;
 }
 
@@ -594,7 +594,7 @@ nav li.last a:hover {
 	left: 50%;
 	height: 100%;
 	margin: 0 0 0 102px;
-	background: url(images/fenceVer.png) repeat-y top;
+	background: url(https://kagawa0710.github.io/gawaHP/images/fenceVer.png) repeat-y top;
 	position: absolute;
 }
 
@@ -610,7 +610,7 @@ nav li.last a:hover {
 	top: -15px;
 	left: 0;
 	height: 15px;
-	background: url(images/fenceHor.png) repeat-x top;
+	background: url(https://kagawa0710.github.io/gawaHP/images/fenceHor.png) repeat-x top;
 	content: "";
 	position: absolute;
 }
@@ -620,7 +620,7 @@ nav li.last a:hover {
 	bottom: -15px;
 	left: 0;
 	height: 15px;
-	background: url(images/fenceHor.png) repeat-x top;
+	background: url(https://kagawa0710.github.io/gawaHP/images/fenceHor.png) repeat-x top;
 	content: "";
 	position: absolute;
 }
@@ -642,7 +642,7 @@ nav li.last a:hover {
 
 .trees {
 	position: absolute;
-	background: url(images/tree.png) repeat 0 0; 
+	background: url(https://kagawa0710.github.io/gawaHP/images/tree.png) repeat 0 0; 
 }
 
 #rightTrees {
@@ -655,7 +655,7 @@ nav li.last a:hover {
 
 .grass {
 	position: absolute;
-	background: url(images/grass.png) repeat 0 0; 
+	background: url(https://kagawa0710.github.io/gawaHP/images/grass.png) repeat 0 0; 
 }
 
 #leftGrass {
@@ -671,7 +671,7 @@ nav li.last a:hover {
 	z-index: 49;
 	width: 32px;
 	height: 28px;
-	background: url(images/flowers.png) repeat left top;
+	background: url(https://kagawa0710.github.io/gawaHP/images/flowers.png) repeat left top;
 }
 
 .flowers.r1 {
@@ -753,7 +753,7 @@ nav li.last a:hover {
 }
 
 #aboutHouse {
-	background: url(images/house1.png) no-repeat;
+	background: url(https://kagawa0710.github.io/gawaHP/images/house1.png) no-repeat;
 	width: 200px;
 	height: 140px;
 	top: 470px;
@@ -768,7 +768,7 @@ nav li.last a:hover {
 }
 
 #servicesHouse {
-	background: url(images/house2.png) no-repeat;
+	background: url(https://kagawa0710.github.io/gawaHP/images/house2.png) no-repeat;
 	width: 200px;
 	height: 165px;
 	top: 754px;
@@ -783,7 +783,7 @@ nav li.last a:hover {
 }
 
 #portfolioHouse {
-	background: url(images/house4.png) no-repeat;
+	background: url(https://kagawa0710.github.io/gawaHP/images/house4.png) no-repeat;
 	width: 240px;
 	height: 154px;
 	top: 950px;
@@ -805,7 +805,7 @@ nav li.last a:hover {
 }
 
 #aboutHouse .door {
-	background: url(images/house1_door.png) no-repeat;
+	background: url(https://kagawa0710.github.io/gawaHP/images/house1_door.png) no-repeat;
 	width: 36px;
 	height: 39px;
 	bottom: 2px;
@@ -818,7 +818,7 @@ nav li.last a:hover {
 }
 
 #servicesHouse .door {
-	background: url(images/house2_door.png) no-repeat;
+	background: url(https://kagawa0710.github.io/gawaHP/images/house2_door.png) no-repeat;
 	width: 32px;
 	height: 32px;
 	bottom: 0;
@@ -831,7 +831,7 @@ nav li.last a:hover {
 }
 
 #portfolioHouse .door {
-	background: url(images/house4_door.png) no-repeat;
+	background: url(https://kagawa0710.github.io/gawaHP/images/house4_door.png) no-repeat;
 	width: 32px;
 	height: 33px;
 	bottom: 2px;
@@ -847,7 +847,7 @@ nav li.last a:hover {
 
 .sign {
 	position: absolute;
-	background: url(images/sign.png) no-repeat center;
+	background: url(https://kagawa0710.github.io/gawaHP/images/sign.png) no-repeat center;
 	width: 30px;
 	height: 34px;
 	z-index: 58;
@@ -917,7 +917,7 @@ nav li.last a:hover {
 	position: absolute;
 	width: 32px;
 	height: 32px;
-	background: url(images/walkingMe.png) no-repeat -32px 0;
+	background: url(https://kagawa0710.github.io/gawaHP/images/walkingMe.png) no-repeat -32px 0;
 	top: 20px;
 	z-index: 53;
 }
@@ -936,19 +936,19 @@ nav li.last a:hover {
 }
 
 #daniel.down {			
-	background: url(images/walkingMe.png) no-repeat -32px 0;
+	background: url(https://kagawa0710.github.io/gawaHP/images/walkingMe.png) no-repeat -32px 0;
 }
 
 #daniel.up {
-	background: url(images/walkingMe.png) 0 -96px;
+	background: url(https://kagawa0710.github.io/gawaHP/images/walkingMe.png) 0 -96px;
 }
 
 #daniel.right {
-	background: url(images/walkingMe.png) 0 -64px;
+	background: url(https://kagawa0710.github.io/gawaHP/images/walkingMe.png) 0 -64px;
 }
 
 #daniel.left {
-	background: url(images/walkingMe.png) 0 -32px;
+	background: url(https://kagawa0710.github.io/gawaHP/images/walkingMe.png) 0 -32px;
 }
 
 /* Lightboxes */
@@ -997,7 +997,7 @@ nav li.last a:hover {
 }
 
 #lightbox > .inner {
-	background: url(images/wood.png) repeat;
+	background: url(https://kagawa0710.github.io/gawaHP/images/wood.png) repeat;
 	min-height: 570px;
 	border-radius: 10px;
 	position: relative;
@@ -1134,7 +1134,7 @@ nav li.last a:hover {
 	float: left;
 	width: 64px;
 	height: 64px;
-	background: url(images/services_icons.png) no-repeat 0 0;
+	background: url(https://kagawa0710.github.io/gawaHP/images/services_icons.png) no-repeat 0 0;
 }
 
 #lightbox .box h4 {
@@ -1154,7 +1154,7 @@ nav li.last a:hover {
 #lightbox .services > section ul li {
 	margin: 0;
 	padding: 4px 5px 2px 30px;
-	background: url(images/check.png) no-repeat left 5px;
+	background: url(https://kagawa0710.github.io/gawaHP/images/check.png) no-repeat left 5px;
 }
 
 #lightbox #sWebsites.box .icon { background-position: 0 0; } 
@@ -1175,7 +1175,7 @@ nav li.last a:hover {
 	position: absolute;
 	left: 0;
 	width: 100%;
-	background: url(images/shelf.png) repeat-x top;
+	background: url(https://kagawa0710.github.io/gawaHP/images/shelf.png) repeat-x top;
 	top: 207px;
 }
 
@@ -1350,7 +1350,7 @@ nav li.last a:hover {
 #innerLoading .me {
 	width: 32px;
 	height: 32px;
-	background: url(images/walkingMe.png) no-repeat 0 0;
+	background: url(https://kagawa0710.github.io/gawaHP/images/walkingMe.png) no-repeat 0 0;
 	margin: 0 auto 10px;
 }
 
@@ -1400,7 +1400,7 @@ body.ie {
 #container .me {
 	width: 32px;
 	height: 32px;
-	background: url(images/walkingMe.png) no-repeat 0 0;
+	background: url(https://kagawa0710.github.io/gawaHP/images/walkingMe.png) no-repeat 0 0;
 	position: absolute;
 	right: 310px;
 	top: 85px;
@@ -1443,23 +1443,23 @@ body.ie {
 }
 
 #lightbox .howtoplay .box#htpShare .icon {
-	background-image: url(images/htpShare.png);
+	background-image: url(https://kagawa0710.github.io/gawaHP/images/htpShare.png);
 }
 
 #lightbox .howtoplay .box#htpEsc .icon {
-	background-image: url(images/htpEsc.png);
+	background-image: url(https://kagawa0710.github.io/gawaHP/images/htpEsc.png);
 } 
 
 #lightbox .howtoplay .box#htpMouse .icon {
-	background-image: url(images/htpMouse.png);
+	background-image: url(https://kagawa0710.github.io/gawaHP/images/htpMouse.png);
 } 
 
 #lightbox .howtoplay .box#htpArrows .icon {
-	background-image: url(images/htpArrows.png);
+	background-image: url(https://kagawa0710.github.io/gawaHP/images/htpArrows.png);
 } 
 
 #lightbox .howtoplay .box#htpHouses .icon {
-	background-image: url(images/htpHouses.png);
+	background-image: url(https://kagawa0710.github.io/gawaHP/images/htpHouses.png);
 }  
 
 #howToPlay {

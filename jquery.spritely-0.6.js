@@ -37,7 +37,7 @@
  *   - added 'dir' option for Sprites. This means a Sprite can be played in reverse.
  *   - removed alert message regarding jQuery.draggable (now uses console.log, if available) <ricky.hewitt@artlogic.net>
  * Version 0.3b
- *   - added lockTo method for locking sprites to background images. $('#sprite').lockTo('#background, {'left': 380, 'top': -60, 'bg_img_width': 1110});
+ *   - added lockTo method for locking sprites to background https://kagawa0710.github.io/gawaHP/images. $('#sprite').lockTo('#background, {'left': 380, 'top': -60, 'bg_img_width': 1110});
  * Version 0.2.1
  *   - animate function will stop cycling after play_frames has completed
  * Version 0.2 beta
@@ -516,7 +516,7 @@
         }
     })
 })(jQuery);
-// Stop IE6 re-loading background images continuously
+// Stop IE6 re-loading background https://kagawa0710.github.io/gawaHP/images continuously
 try {
   document.execCommand("BackgroundImageCache", false, true);
 } catch(err) {} 
