@@ -3,3 +3,4 @@
 # flask_tutorial
 # arwes-app
 # 47map
+# rust_test
